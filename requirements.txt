@@ -1,0 +1,2 @@
+websockets==11.0.3
+tkintermodernthemes==1.10.4
