@@ -1,0 +1,19 @@
+{
+    "office_name": "KPP PRATAMA JAKARTA X",
+    "counters": {
+        "A": 2,
+        "B": 2
+    },
+    "services": [
+        {
+            "code": "A",
+            "name": "Pelayanan A",
+            "description": "Layanan administrasi A"
+        },
+        {
+            "code": "B",
+            "name": "Pelayanan B",
+            "description": "Layanan administrasi B"
+        }
+    ]
+}
